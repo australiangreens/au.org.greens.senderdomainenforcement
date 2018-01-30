@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/senderdomainenforcement/settings</path>
+    <page_callback>CRM_Senderdomainenforcement_Form_SenderdomainenforcementSettings</page_callback>
+    <title>Sender Domain Enforcement Settings</title>
+    <access_arguments>administer CiviCRM</access_arguments>
+  </item>
+</menu>v
